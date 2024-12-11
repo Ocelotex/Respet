@@ -1,3 +1,3 @@
-# flutter_projetinho
+# flutter_Respet
 
-A new Flutter project.
+Projeto realizado visando a solução de problemas de saúde pública e animais de rua.

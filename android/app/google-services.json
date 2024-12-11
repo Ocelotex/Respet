@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077945520321",
+    "project_id": "projeto-teorba",
+    "storage_bucket": "projeto-teorba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077945520321:android:ef48021d55fb32434ac440",
+        "android_client_info": {
+          "package_name": "com.example.flutter_projetinho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbIV7y9l_7d5UHnCcL-G98bWa30ATwrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
